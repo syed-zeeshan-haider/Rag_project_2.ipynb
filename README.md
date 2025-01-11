@@ -69,7 +69,8 @@ Feel free to contribute by creating pull requests or reporting issues. Let’s m
 
 For any queries, reach out via the GitHub issues section. Happy coding! 😊
 
-## Rag third Project
+## 📚 Rag Project 3 
+
 # 🌐 Dynamic Web Scraper: Your Ultimate Data Extraction Tool 🚀
 
 ## Overview
